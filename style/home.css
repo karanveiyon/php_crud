@@ -1,0 +1,23 @@
+body{
+    min-height: 100vh;
+}
+.heading
+{
+    text-align: center;
+    color: red;
+}
+.form
+{
+    z-index: 3;
+padding:3rem;
+border-radius: 30px;
+background: #e0e0e0;
+box-shadow:  35px -35px 70px #bebebe,
+             -35px 35px 70px #ffffff;
+}
+#svg
+{
+
+    bottom: 0;
+    z-index: 1;
+}
